@@ -138,3 +138,5 @@ Finally, you can access the default kafka dashboard in Grafana (username is "adm
 ```
 $ curl -X PUT http://localhost:8080/api/interpreter/setting/restart/spark
 ```
+
+- https://spark.apache.org/docs/latest/streaming-programming-guide.html#linking
